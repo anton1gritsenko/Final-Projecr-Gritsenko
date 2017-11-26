@@ -67,7 +67,7 @@ body {
 
 }
 .close {
-    position: fixed;
+    position: absolute;
     right: 1%;
     margin-top: 4px;
 	}
