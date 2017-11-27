@@ -552,7 +552,7 @@ footer {
     vertical-align: top;
 }
 .footer-block {
-    max-width: 1150px;
+    max-width: 100%;
     padding: 100px 30px;
     margin: 0 auto;
 }
@@ -873,6 +873,7 @@ form, .button-send{
 	.nav-menu {
     font-size: 15px;
 	}
+	
 @media screen and (max-width: 1030px) {
     .logo-images{
     max-width: 48%;
@@ -931,7 +932,6 @@ form, .button-send{
         width: 225px;
     }
     .footer-block {
-       /* max-width: 520px;*/
         padding: 50px 30px 20px 30px;
     }
     .copywrite-text {
@@ -1200,7 +1200,7 @@ form, .button-send{
         width: 33%;
     }
     .footer-block {
-        max-width: 520px;
+       
         padding: 50px 30px 20px 30px;
     }
     .copywrite-text {
